@@ -43,7 +43,7 @@ NB : Le nombre d'écrans à fournir est au minimum de 2 (version desktop & mobil
 
 ![Clipboard mobile screenshot1](./assets/clipboard-mobile-mockup1.jpg)
 
-5.  [Figma Mobile menu layer]
+5.  [Figma Mobile sidebar layer]
     
 ![Clipboard mobile screenshot2](./assets/clipboard-mobile-mockup2.jpg)
 
