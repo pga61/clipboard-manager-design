@@ -57,7 +57,7 @@ NB : Le nombre d'écrans à fournir est au minimum de 2 (version desktop & mobil
 ## Références
 Proto en ligne : [ici](https://www.figma.com/proto/pCwsMFkTSvHROuS7zKSdxs/EE-maquetter-une-application?node-id=32%3A1527&scaling=scale-down&page-id=1%3A2)
 
-Dépôt Github du projet : [ici](https://github.com/pga61/clipboard-manager)
+Dépôt Github du projet : [ici](https://github.com/pga61/clipboard-manager-design)
 
 ## Contact
 Conception [@Philippe](https://philippe-gaspel.me) - feel free to contact me!
